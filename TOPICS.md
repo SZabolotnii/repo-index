@@ -67,9 +67,8 @@ Use this file as the canonical topic system for repositories in this profile.
 
 ### graphify
 - `knowledge-systems`
-- `knowledge-graph`
-- `ai-agents`
 - `tooling`
+- `research-tools`
 - `active`
 
 ### RAG_Techniques
