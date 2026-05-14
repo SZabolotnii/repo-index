@@ -1,6 +1,70 @@
 # Repository Index
 
-A curated overview of my GitHub repositories, grouped by theme.
+A curated overview of my GitHub repositories, grouped by theme, with a practical taxonomy for organizing topics, descriptions, and maintenance.
+
+## Recommended Pinned Repositories
+
+These six repositories best represent the main directions of the profile:
+
+- **openclaw-agent-workshop** — AI agents / workshop / education
+- **graphify** — knowledge systems / code intelligence
+- **SurfSense** — AI search / productivity / connected knowledge
+- **awesome-llm-apps** — practical LLM and agent applications
+- **RAG_Techniques** — RAG techniques and implementations
+- **dsp-python** — DSP theory and Python implementations
+
+## Topic Taxonomy
+
+Use 3–5 topics per repository across these dimensions:
+
+### Theme
+- `ai-agents`
+- `agent-engineering`
+- `llm`
+- `rag`
+- `prompt-engineering`
+- `knowledge-systems`
+- `research-tools`
+- `education`
+- `dsp`
+- `signal-processing`
+- `statistics`
+- `scientific-ai`
+- `medical-ai`
+- `legal-tech`
+- `benchmarking`
+
+### Tech
+- `python`
+- `r`
+- `html`
+- `jupyter-notebook`
+- `openclaw`
+- `claude`
+- `mcp`
+- `openalex`
+- `orcid`
+
+### Type
+- `course`
+- `workshop`
+- `tutorial`
+- `template`
+- `framework`
+- `library`
+- `reference`
+- `awesome-list`
+- `benchmark`
+- `research`
+- `tooling`
+- `personal-profile`
+
+### Status
+- `active`
+- `experimental`
+- `archived`
+
+## Repository Catalog
 
 ## AI Agents / Agent Engineering
 - **openclaw-agent-workshop** — Practical workshop on building AI agents with OpenClaw.
@@ -56,3 +120,13 @@ A curated overview of my GitHub repositories, grouped by theme.
 
 ## Profile
 - **SZabolotnii** — GitHub profile configuration repository.
+
+## Maintenance Workflow
+
+For each repository:
+
+1. Add 3–5 GitHub topics using the taxonomy above.
+2. Update the About description with a one-sentence summary.
+3. Mark the repository mentally as `active`, `experimental`, or `archived` and reflect that in topics when useful.
+4. Use the pinned repository list above to keep the profile focused.
+5. Review this index periodically as new repositories are added.
