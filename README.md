@@ -65,6 +65,7 @@ Use 3–5 topics per repository across these dimensions:
 - `archived`
 
 ## Repository Catalog
+For an operational view (status, priority, suggested GitHub **About** descriptions, and suggested topics), see `CATALOG.md`.
 
 ## AI Agents / Agent Engineering
 - **openclaw-agent-workshop** — Practical workshop on building AI agents with OpenClaw.
